@@ -1,0 +1,72 @@
+/* Reset padding and margin for all elements, set font family to Arial */
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Arial, sans-serif;
+ }
+ 
+ /* Style the body element */
+ body {    
+    display: flex;    
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #f0f0f0;
+}
+
+/* Style the calculator container */
+.calculator {
+    background: #fff;
+    border: 1px solid #ccc;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    max-width: 300px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+/* Style the display element */
+.display {
+    background-color: #333;
+    color: #fff;
+    font-size: 32px;
+    text-align: right;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+    min-height: 50px;
+}
+
+/* Style the buttons container */
+.buttons {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 10px;
+}
+
+/* Style the button elements */
+.button {
+    background-color: #007BFF;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 20px;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+/* Style the button on hover */
+.button:hover {
+    background-color: #0056b3;
+}
+
+/* Style the equals button */
+#equals {
+    background-color: #28a745;
+}
+
+/* Style the equals button on hover */
+#equals:hover {
+    background-color: #218838;
+}
