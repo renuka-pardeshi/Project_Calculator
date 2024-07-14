@@ -1,6 +1,7 @@
 # CodeAlpha_Calculator
 # Calculator Project
 
+## Description
 This repository contains the code for a simple calculator developed using HTML, CSS, and JavaScript during my internship at Code Alpha.
 
 ## Introduction
