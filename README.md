@@ -1,8 +1,8 @@
-# CodeAlpha_Calculator
+# Project_Calculator
 # Calculator Project
 
 ## Description
-This repository contains the code for a simple calculator developed using HTML, CSS, and JavaScript during my internship at Code Alpha.
+This repository contains the code for a simple calculator developed using HTML, CSS, and JavaScript.
 
 ## Introduction
 This project is a basic calculator that performs arithmetic operations such as addition, subtraction, multiplication, division, and modulus. It is designed with a simple and intuitive user interface, making it easy to use.
@@ -15,6 +15,3 @@ This project is a basic calculator that performs arithmetic operations such as a
 - HTML
 - CSS
 - JavaScript
-
-## Acknowledgements
-I would like to thank Code Alpha for the opportunity to work on this project during my internship. It has been a valuable learning experience.
